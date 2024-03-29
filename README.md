@@ -12,7 +12,7 @@ This is a simple password generator built using React. It allows you to generate
 
 1. Clone the repository:
 
-   git clone https://github.com/your_username/react-password-generator.git
+   git clone https://github.com/NepTech-Roshan/password_generator-react-.git
    
 2.  Navigate into the project         directory 
 
