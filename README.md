@@ -10,15 +10,15 @@ This is a simple password generator built using React. It allows you to generate
 
 ## Installation
 
-1. Clone the repository:
+  1. Clone the repository:
 
    git clone https://github.com/NepTech-Roshan/password_generator-react-.git
    
-2.  Navigate into the project         directory 
+  2.  Navigate into the project directory:
 
     cd react-password-generator
     
-3. Install Depedencies 
+  3. Install Depedencies:
 
     npm install
     
